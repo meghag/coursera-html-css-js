@@ -1,0 +1,20 @@
+/* base styles */
+
+
+
+/* Large screens (Desktop) - 992px and above */
+@media (min-width: 992px) {
+
+}
+
+
+/* Medium screens (Tablet) - 768px to 991px */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+
+/* Small screens (Mobile) - 767px or less */
+@media (max-width: 767px) {
+	
+}
