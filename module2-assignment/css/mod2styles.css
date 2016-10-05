@@ -1,5 +1,8 @@
 /* base styles */
-
+section {
+	border: 1px solid black;
+	background-color: #0000AA;
+}
 
 
 /* Large screens (Desktop) - 992px and above */
@@ -16,5 +19,5 @@
 
 /* Small screens (Mobile) - 767px or less */
 @media (max-width: 767px) {
-	
+
 }
